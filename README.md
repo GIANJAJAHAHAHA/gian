@@ -310,5 +310,6 @@ bot.login("super_secret_token")
 - Added Choke
 - Added Arrest
 - Added News
+- Added Couple
 
 Credits to Mr-KayJayDee
