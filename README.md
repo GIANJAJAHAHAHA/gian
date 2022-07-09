@@ -306,6 +306,9 @@ bot.login("super_secret_token")
 
 # Changelog 
 
+## v1.0.7
+- Added Sofa
+
 ## v1.0.6
 - Added Choke
 - Added Arrest
