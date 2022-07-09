@@ -7,7 +7,7 @@ module.exports = class News {
      */
     async getImage(image) {
         if (!image) throw new Error(`You must provide an image as a first argument.`);
-        let bg = await jimp.read(`${__dirname}/../../assets/news.png`);
+        let bg = await jimp.read(`${__dirname}/../../assets/news(1).png`);
         let img = await jimp.read(image);
         img.resize(140, 140);
         bg.composite(img, 46, 43);
