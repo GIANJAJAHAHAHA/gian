@@ -1,20 +1,20 @@
 {
-  "name": "discord-image-generation",
+  "name": "kojiro-image-generation",
   "version": "1.4.12",
-  "description": "discord-image-generation is a powerfull module that allow you to generate awesome images.",
+  "description": "kojiro-image-generation is a powerfull module that allow you to generate awesome images.",
   "main": "src/index.js",
   "types": "typings/index.d.ts",
   "scripts": {
     "test": "node src/index.js"
   },
   "author": {
-    "name": "Mr¤KayJayDee",
-    "email": "killian.dalcin@gmail.com"
+    "name": "yanyan472",
+    "email": "gianmorano02@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mr-KayJayDee/discord-image-generation.git"
+    "url": ""
   },
   "bugs": {
     "url": "https://github.com/Mr-KayJayDee/discord-image-generation/issues"
