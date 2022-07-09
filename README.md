@@ -28,7 +28,7 @@ Please join [this](https://discord.gg/5ZSGFYtnqw) community server to follow all
 You can download it from <a href="https://www.npmjs.com/package/discord-image-generation">npmjs</a>.
 
 ```cli
-npm i discord-image-generation
+npm i kojiro-image-generation
 ```
 
 # Configuration
@@ -36,7 +36,7 @@ npm i discord-image-generation
 The first step is to import the module in your code.
 
 ```js
-const DIG = require("discord-image-generation");
+const KIG = require("kojiro-image-generation");
 ```
 
 Then you have to request your image and send it as an attachement.
