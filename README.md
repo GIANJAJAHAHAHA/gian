@@ -312,4 +312,4 @@ bot.login("super_secret_token")
 - Added News
 - Added Couple
 
-Credits to Mr-KayJayDee
+Credits to Mr-KayJayDee and Alex15#0010
